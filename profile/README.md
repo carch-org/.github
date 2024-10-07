@@ -11,7 +11,7 @@ Linux Nerd & Arch user btw
 * 🧠  I'm learning C RUST
 * ⚡  Forget It :
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/OS-Linux-FF6961?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=gray" />
   <img src="https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray" />
 </p>
