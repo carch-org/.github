@@ -36,6 +36,8 @@ src="https://img.shields.io/github/followers/harilvfs?logo=github&style=for-the-
 </p>
 
 
+<div align="center">
+
 ### Socials
 
 <p align="left">
@@ -72,6 +74,7 @@ src="https://img.shields.io/github/followers/harilvfs?logo=github&style=for-the-
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" style="filter: invert(10%) sepia(8%) saturate(3186%) hue-rotate(260deg) brightness(92%) contrast(93%);" />
   </a>
 </p>
+</div>
 
 <br>
 
