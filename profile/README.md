@@ -1,5 +1,7 @@
-<div align="center"> Hari LVFS </div>
+<div align="center">
+<strong>Hari LVFS</strong> </div>
 
+<br>
 <div align="center"> 
   
 - <strong>🌍  I'm based in Kathmandu, Nepal</strong>
