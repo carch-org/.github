@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/harilvfs?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left">
+<p align="center">
   <!-- GitHub -->
   <a href="https://www.github.com/harilvfs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: invert(93%) sepia(0%) saturate(0%) hue-rotate(181deg) brightness(105%) contrast(104%);" />
