@@ -11,6 +11,11 @@ Linux Nerd & Arch user btw
 * 🧠  I'm learning C RUST
 * ⚡  Forget It :
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-FF6961?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=gray" />
+  <img src="https://img.shields.io/badge/Distro-Arch-00CED1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=gray" />
+</p>
+
 <a href="https://www.github.com/harilvfs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harilvfs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/harilvfs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harilvfs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
