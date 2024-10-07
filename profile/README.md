@@ -17,15 +17,11 @@ src="https://img.shields.io/twitter/follow/harilvfs?logo=twitter&style=for-the-b
 /></a><a href="https://www.twitch.tv/aayushchalese" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/aayushchalese?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-<div align="center">
+<div>
   <a href="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/QR/mobilebanking.webp">
     <img src="https://img.shields.io/badge/harilvfs-SPONSOR-9f39ef?style=for-the-badge&logo=github-sponsors&labelColor=2e2e2e" alt="Sponsor Me" />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif">
-</p>
 
 ### Skills
 
