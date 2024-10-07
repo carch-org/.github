@@ -5,6 +5,7 @@
 <div align="center"> 
   
 <strong>🌍  I'm based in Kathmandu, Nepal</strong>
+
 <strong>🖥️  See my portfolio at [Portfolio Web](http://chalisehari.com.np)</strong>
 <strong>✉️  You can contact me at [ingoprivate@gmail.com](mailto:ingoprivate@gmail.com)</strong>
 <strong>🚀  I'm currently working on [Arch Script](http://github.com/harilvfs/carch)</strong>
