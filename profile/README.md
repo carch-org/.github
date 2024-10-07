@@ -6,8 +6,8 @@ Linux Nerd & Arch user btw
 
 <div align="center"> 
   
-<strong>🌍  I'm based in Kathmandu, Nepal</strong>
-🖥️  See my portfolio at [Portfolio Web](http://chalisehari.com.np)
+- <strong>🌍  I'm based in Kathmandu, Nepal</strong>
+- 🖥️  See my portfolio at [Portfolio Web](http://chalisehari.com.np)
 ✉️  You can contact me at [ingoprivate@gmail.com](mailto:ingoprivate@gmail.com)
 🚀  I'm currently working on [Arch Script](http://github.com/harilvfs/carch)
 🧠  I'm learning C RUST
