@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Linux Nerd & Arch user btw
 --------------------------
 
-<p align="center"> 
+<div align="center"> 
   
 * 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [Portfolio Web](http://chalisehari.com.np)
@@ -12,8 +12,7 @@ Linux Nerd & Arch user btw
 * 🚀  I'm currently working on [Arch Script](http://github.com/harilvfs/carch)
 * 🧠  I'm learning C RUST
 * ⚡  Forget It :
-
-</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-FF6961?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=gray" />
