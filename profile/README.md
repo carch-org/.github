@@ -16,7 +16,7 @@
 
 <strong>🚀  I'm currently working on [Arch Script](http://github.com/harilvfs/carch)</strong>
 
-<strong>🧠  I'm learning C RUST</strong>
+<strong>🧠  I'm learning C & RUST</strong>
 </div>
 
 <p align="center">
