@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/harilvfs/carch/refs/heads/main/source/carch.webp" />
+<img src="https://raw.githubusercontent.com/harilvfs/assets/refs/heads/main/carch/carch.webp" />
