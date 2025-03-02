@@ -32,5 +32,4 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: carch-org/pkgs, carch-org/docs, carch-org/wiki
           plugin_repositories_affiliations: owner, collaborator
-          plugin_licenses: yes
 
