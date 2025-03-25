@@ -160,7 +160,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carch-org/carch</span>
-                                        <span>created 4 hours ago</span>
+                                        <span>created 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧪 Fork of the main Carch project for testing purposes.</div>
@@ -319,7 +319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carch-org/wiki</span>
-                                        <span>created 28 days ago</span>
+                                        <span>created 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Carch Wiki ⭐ Built with Starlight &amp; Astro</div>
@@ -383,7 +383,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 26 Mar 2025, 00:57:36 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2025, 02:01:47 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
