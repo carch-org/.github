@@ -160,7 +160,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carch-org/carch</span>
-                                        <span>created 23 hours ago</span>
+                                        <span>created 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧪 Fork of the main Carch project for testing purposes.</div>
@@ -378,12 +378,12 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 22:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
             <footer>
-                <span>Last updated 26 Mar 2025, 20:00:27 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2025, 21:01:36 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
