@@ -131,7 +131,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 94.3kb of code in 298 edited files across 574 commits over last 13 days</small>
+                <small>estimation from 164kb of code in 300 edited files across 578 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -383,13 +383,13 @@
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 22:00</li>
-                        <li>Mostly active on Friday</li>
+                        <li>Mostly pushes code around 00:00</li>
+                        <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
             </section>
             <footer>
-                <span>Last updated 13 Apr 2025, 00:57:09 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2025, 01:59:53 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
