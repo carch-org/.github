@@ -180,7 +180,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carch-org/carch</span>
-                                        <span>created 18 hours ago</span>
+                                        <span>created 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩 [ This repo is only for testing purpose ]</div>
@@ -403,7 +403,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 17 Jul 2025, 20:00:23 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2025, 21:03:29 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
