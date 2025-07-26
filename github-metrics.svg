@@ -137,8 +137,8 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="562.2618125484121" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="562.2618125484121" y="0" width="357.7381874515879" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="602.890365448505" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="602.890365448505" y="0" width="317.10963455149505" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -173,7 +173,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carch-org/carch</span>
-                                        <span>created 9 days ago</span>
+                                        <span>created 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩 [ This repo is only for testing purpose ]. Check official repo https://github.com/harilvfs/carch</div>
@@ -396,7 +396,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 27 Jul 2025, 02:02:24 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2025, 02:59:55 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
