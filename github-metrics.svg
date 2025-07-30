@@ -131,7 +131,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 493kb of code in 381 edited files across 462 commits over last 12 days</small>
+                <small>estimation from 552kb of code in 381 edited files across 462 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -173,7 +173,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carch-org/carch</span>
-                                        <span>created 13 days ago</span>
+                                        <span>created 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩 [ This repo is only for testing purpose ]. Check official repo https://github.com/harilvfs/carch</div>
@@ -396,7 +396,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 31 Jul 2025, 02:03:16 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jul 2025, 03:01:32 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
