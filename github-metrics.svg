@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ No longer active here since Aug 7, 2025</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            12370 Commits
+                            12371 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -228,17 +228,17 @@ No longer active here since Aug 7, 2025</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 450kb of code in 446 edited files across 150 commits over last 14 days</small>
+                <small>estimation from 428kb of code in 428 edited files across 146 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="704.5224940805051" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="704.5224940805051" y="0" width="170.12874901341752" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="874.6512430939226" y="0" width="31.421911996842937" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="906.0731550907656" y="0" width="11.839236385161799" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="917.9123914759274" y="0" width="2.0876085240726123" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="674.065816513245" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="674.065816513245" y="0" width="194.17560453790503" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="868.2414210511499" y="0" width="35.86324353235932" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="904.1046645835092" y="0" width="13.512653773611463" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="917.6173183571207" y="0" width="2.3826816428792617" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -462,7 +462,7 @@ No longer active here since Aug 7, 2025</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2025, 00:09:40 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2025, 00:59:34 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
