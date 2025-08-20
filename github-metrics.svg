@@ -228,17 +228,17 @@ No longer active here since Aug 7, 2025</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 118kb of code in 233 edited files across 105 commits over last 14 days</small>
+                <small>estimation from 116kb of code in 221 edited files across 99 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="557.838880849011" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="557.838880849011" y="0" width="289.33912204534494" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="847.178002894356" y="0" width="50.91172214182345" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="898.0897250361795" y="0" width="20.135069946936806" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="918.2247949831162" y="0" width="1.7752050168837434" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="559.5876288659794" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="559.5876288659794" y="0" width="290.24616031979804" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="849.8337891857774" y="0" width="48.18725015779508" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="898.0210393435725" y="0" width="20.198190616452766" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="918.2192299600252" y="0" width="1.7807700399747528" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -462,7 +462,7 @@ No longer active here since Aug 7, 2025</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2025, 15:02:58 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2025, 16:02:02 (timezone Asia/Katmandu) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
